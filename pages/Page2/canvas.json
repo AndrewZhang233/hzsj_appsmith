@@ -53,7 +53,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "kk3bwksp10",
               "isDeprecated": false,
               "rightColumn": 24,
@@ -93,7 +93,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "kk3bwksp10",
               "isDeprecated": false,
               "rightColumn": 24,
@@ -133,7 +133,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "kk3bwksp10",
               "isDeprecated": false,
               "rightColumn": 24,
@@ -173,7 +173,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "kk3bwksp10",
               "isDeprecated": false,
               "rightColumn": 24,
@@ -250,7 +250,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "kk3bwksp10",
               "isDeprecated": false,
               "rightColumn": 64,
@@ -401,7 +401,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "kk3bwksp10",
               "isDeprecated": false,
               "rightColumn": 64,
@@ -478,7 +478,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "kk3bwksp10",
               "isDeprecated": false,
               "rightColumn": 64,

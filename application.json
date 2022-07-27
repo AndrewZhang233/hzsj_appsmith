@@ -16,10 +16,10 @@
   "color": "#F5D1D1",
   "icon": "line-chart",
   "unpublishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
-    "type": "FLUID"
+    "type": "DESKTOP"
   },
   "applicationVersion": 2,
   "isManualUpdate": false,

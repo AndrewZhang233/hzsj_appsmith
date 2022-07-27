@@ -28,7 +28,13 @@
             {
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
               "widgetName": "Iframe4CopyCopyCopyCopy",
+              "borderColor": "white",
               "srcDoc": "<div id=\"项目案例\" style=\"font-size:30px;\">项目案例</div>",
+              "dynamicPropertyPathList": [
+                {
+                  "key": "borderColor"
+                }
+              ],
               "displayName": "Iframe",
               "iconSVG": "/static/media/icon.34169b6acebc8ace125dd1f638974aae.svg",
               "searchTags": [
@@ -53,7 +59,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
               "rightColumn": 39,
@@ -93,7 +99,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
               "rightColumn": 40,
@@ -133,7 +139,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
               "rightColumn": 41,
@@ -169,7 +175,7 @@
               "key": "ktj7ffs46h",
               "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u42.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
               "isDeprecated": false,
-              "rightColumn": 34,
+              "rightColumn": 29,
               "objectFit": "contain",
               "widgetId": "isuociumb8",
               "isVisible": true,
@@ -210,7 +216,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
               "rightColumn": 41,
@@ -246,7 +252,7 @@
               "key": "jcg0lc25mp",
               "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u62.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
               "isDeprecated": false,
-              "rightColumn": 12,
+              "rightColumn": 10,
               "objectFit": "contain",
               "widgetId": "1idokuidj6",
               "isVisible": true,
@@ -262,7 +268,7 @@
             {
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
               "widgetName": "Iframe1",
-              "srcDoc": "<div style=\"vertical-align: middle\"><a href=\"#解决方案\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">解决方案</strong>&nbsp&nbsp&nbsp\n</a><a href=\"https://app.appsmith.com/app/hzsj/page2-62e0ab761d816b5fddf3f938\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:30px; line-height:3\">产品</strong>&nbsp&nbsp&nbsp\n</a><a href=\"#合作伙伴\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:30px; line-height:3\">合作伙伴</strong>&nbsp&nbsp&nbsp\n</a><a href=\"#开发者\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:30px; line-height:3\">开发者</strong>&nbsp&nbsp&nbsp\n</a><a href=\"#了解金硕\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:30px; line-height:3\">了解金硕</strong>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp\n<strong style=\"font-size:25px; line-height:3\">📮：联系我们</strong>\n</a></div>\n",
+              "srcDoc": "<div style=\"vertical-align: middle\"><a href=\"#解决方案\"style=\"text-decoration: none;\">&nbsp&nbsp&nbsp <strong style=\"font-size:27px; line-height:3\">解决方案</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\"href=\"https://app.appsmith.com/app/hzsj/page2-62e0ab761d816b5fddf3f938\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:27px; line-height:3\">产品</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#合作伙伴\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:27px; line-height:3\">合作伙伴</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#开发者\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:27px; line-height:3\">开发者</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#了解金硕\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:27px; line-height:3\">了解金硕</strong>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp\n<strong style=\"font-size:20px; line-height:3\">📮：联系我们</strong>\n</a></div>\n",
               "displayName": "Iframe",
               "iconSVG": "/static/media/icon.34169b6acebc8ace125dd1f638974aae.svg",
               "searchTags": [
@@ -278,7 +284,7 @@
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 12,
+              "leftColumn": 10,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -287,10 +293,10 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "kk3bwksp10",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 58,
               "widgetId": "arowzbqxy3",
               "isVisible": true,
               "version": 1,
@@ -327,10 +333,10 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 50,
+              "rightColumn": 46,
               "widgetId": "mpximew9yz",
               "isVisible": true,
               "version": 1,
@@ -342,7 +348,7 @@
             {
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
               "widgetName": "Iframe3",
-              "srcDoc": "<div style=\"text-align:center\"><a href=\"#用户场景\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">用户场景</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a><a href=\"#业务痛点\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">业务痛点</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a><a href=\"#方案架构\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">方案架构</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a><a href=\"#方案优势\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">方案优势</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a><a href=\"#项目案例\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">项目案例</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a></div>",
+              "srcDoc": "<div style=\"text-align:center\"><a style=\"text-decoration: none;\" href=\"#用户场景\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">用户场景</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a><a style=\"text-decoration: none;\" href=\"#业务痛点\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">业务痛点</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a><a style=\"text-decoration: none;\" href=\"#方案架构\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">方案架构</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a><a style=\"text-decoration: none;\" href=\"#方案优势\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">方案优势</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a><a style=\"text-decoration: none;\" href=\"#项目案例\">&nbsp&nbsp&nbsp <strong style=\"font-size:30px; line-height:3\">项目案例</strong>&nbsp&nbsp&nbsp&nbsp&nbsp</a></div>",
               "displayName": "Iframe",
               "iconSVG": "/static/media/icon.34169b6acebc8ace125dd1f638974aae.svg",
               "searchTags": [
@@ -367,7 +373,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
               "rightColumn": 64,
@@ -407,7 +413,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
               "rightColumn": 42,
@@ -531,7 +537,7 @@
                       "key": "ktj7ffs46h",
                       "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u32.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
                       "isDeprecated": false,
-                      "rightColumn": 64,
+                      "rightColumn": 59,
                       "objectFit": "contain",
                       "widgetId": "bqvnxsjfwe",
                       "isVisible": true,
@@ -564,7 +570,7 @@
               "key": "cf9n4vlg7u",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 33,
+              "rightColumn": 31,
               "widgetId": "gwsushrr8y",
               "containerStyle": "card",
               "isVisible": true,
@@ -593,7 +599,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
-              "leftColumn": 33,
+              "leftColumn": 34,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -653,7 +659,7 @@
                           "key": "boxShadow"
                         }
                       ],
-                      "borderWidth": 1,
+                      "borderWidth": "0",
                       "key": "jrkdjawyf1",
                       "isDeprecated": false,
                       "rightColumn": 64,
@@ -685,7 +691,7 @@
               "key": "cf9n4vlg7u",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 60,
               "widgetId": "3pi6jovx3x",
               "containerStyle": "card",
               "isVisible": true,
@@ -714,7 +720,7 @@
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 35,
+              "leftColumn": 29,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -723,10 +729,10 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 60,
               "widgetId": "ti1vy98h1o",
               "isVisible": true,
               "version": 1,
@@ -759,7 +765,7 @@
               "key": "ktj7ffs46h",
               "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u64.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 60,
               "objectFit": "contain",
               "widgetId": "xl19pcua18",
               "isVisible": true,
@@ -800,7 +806,7 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
               "rightColumn": 31,
@@ -887,7 +893,7 @@
                       "key": "ktj7ffs46h",
                       "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u60.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
                       "isDeprecated": false,
-                      "rightColumn": 64,
+                      "rightColumn": 55,
                       "objectFit": "contain",
                       "widgetId": "mtffkdix7u",
                       "isVisible": true,
@@ -928,7 +934,7 @@
                           "key": "boxShadow"
                         }
                       ],
-                      "borderWidth": 1,
+                      "borderWidth": "0",
                       "key": "jrkdjawyf1",
                       "isDeprecated": false,
                       "rightColumn": 39,
@@ -960,7 +966,7 @@
               "key": "cf9n4vlg7u",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 60,
               "widgetId": "bsgu27ldqu",
               "containerStyle": "card",
               "isVisible": true,
@@ -1049,7 +1055,7 @@
                           "key": "boxShadow"
                         }
                       ],
-                      "borderWidth": 1,
+                      "borderWidth": "0",
                       "key": "jrkdjawyf1",
                       "isDeprecated": false,
                       "rightColumn": 31,
@@ -1075,7 +1081,7 @@
                       "parentColumnSpace": 6.1650390625,
                       "dynamicTriggerPathList": [],
                       "imageShape": "RECTANGLE",
-                      "leftColumn": 0,
+                      "leftColumn": 8,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1207,7 +1213,7 @@
                           "key": "boxShadow"
                         }
                       ],
-                      "borderWidth": 1,
+                      "borderWidth": "0",
                       "key": "jrkdjawyf1",
                       "isDeprecated": false,
                       "rightColumn": 27,
@@ -1243,7 +1249,7 @@
                       "key": "ktj7ffs46h",
                       "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u72.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
                       "isDeprecated": false,
-                      "rightColumn": 31,
+                      "rightColumn": 34,
                       "objectFit": "contain",
                       "widgetId": "vdwo4hhmo0",
                       "isVisible": true,
@@ -1270,7 +1276,7 @@
                       "parentColumnSpace": 6.75390625,
                       "dynamicTriggerPathList": [],
                       "imageShape": "RECTANGLE",
-                      "leftColumn": 31,
+                      "leftColumn": 34,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -1280,7 +1286,7 @@
                       "key": "ktj7ffs46h",
                       "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u61.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
                       "isDeprecated": false,
-                      "rightColumn": 63,
+                      "rightColumn": 64,
                       "objectFit": "contain",
                       "widgetId": "1wt9qeiymc",
                       "isVisible": true,
@@ -1313,7 +1319,7 @@
               "key": "cf9n4vlg7u",
               "backgroundColor": "#FFFFFF",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 60,
               "widgetId": "5glrm5w8yd",
               "containerStyle": "card",
               "isVisible": true,
@@ -1337,7 +1343,7 @@
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
               "imageShape": "RECTANGLE",
-              "leftColumn": 0,
+              "leftColumn": 4,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1347,7 +1353,7 @@
               "key": "ktj7ffs46h",
               "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u63.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 60,
               "objectFit": "contain",
               "widgetId": "p4qd6460py",
               "isVisible": true,
@@ -1374,7 +1380,7 @@
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
               "imageShape": "RECTANGLE",
-              "leftColumn": 0,
+              "leftColumn": 4,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1425,10 +1431,10 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 60,
               "widgetId": "0g4ftsucqv",
               "isVisible": true,
               "version": 1,
@@ -1456,7 +1462,7 @@
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 0,
+              "leftColumn": 4,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1465,10 +1471,10 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 29,
+              "rightColumn": 33,
               "widgetId": "eu9hh2uu82",
               "isVisible": true,
               "version": 1,
@@ -1491,7 +1497,7 @@
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
               "imageShape": "RECTANGLE",
-              "leftColumn": 29,
+              "leftColumn": 33,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1501,7 +1507,7 @@
               "key": "ktj7ffs46h",
               "image": "https://d1icd6shlvmxi6.cloudfront.net/gsc/MRAFFL/20/e4/3a/20e43a0f73a94d128209c3755e429399/images/首页/u67.png?pageId=6eee595c-7ad8-4847-bdc8-50814a10f323",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 60,
               "objectFit": "contain",
               "widgetId": "ct3bek1ohi",
               "isVisible": true,
@@ -1570,7 +1576,7 @@
               "animateLoading": true,
               "parentColumnSpace": 12.5625,
               "dynamicTriggerPathList": [],
-              "leftColumn": 50,
+              "leftColumn": 47,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -1579,10 +1585,10 @@
                   "key": "boxShadow"
                 }
               ],
-              "borderWidth": 1,
+              "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 61,
               "widgetId": "u1etcvdztu",
               "isVisible": true,
               "version": 1,

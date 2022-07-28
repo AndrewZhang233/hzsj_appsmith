@@ -196,16 +196,16 @@
                     {
                       "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
                       "widgetName": "Iframe1",
-                      "srcDoc": "baidu",
+                      "srcDoc": "<a href=\"http://www.baidu.com\">baidu</a>",
                       "displayName": "Iframe",
                       "iconSVG": "/static/media/icon.34169b6acebc8ace125dd1f638974aae.svg",
                       "searchTags": [
                         "embed"
                       ],
                       "topRow": 9,
-                      "bottomRow": 41,
+                      "bottomRow": 13,
                       "parentRowSpace": 10,
-                      "source": "https://www.baidu.com",
+                      "source": "http://www.baidu.com",
                       "type": "IFRAME_WIDGET",
                       "hideCard": false,
                       "borderOpacity": 100,

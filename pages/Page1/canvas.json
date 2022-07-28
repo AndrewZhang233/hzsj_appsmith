@@ -50,7 +50,7 @@
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 26,
+              "leftColumn": 30,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -62,7 +62,7 @@
               "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 39,
+              "rightColumn": 43,
               "widgetId": "k5zckrodei",
               "isVisible": true,
               "version": 1,
@@ -80,8 +80,8 @@
               "searchTags": [
                 "embed"
               ],
-              "topRow": 244,
-              "bottomRow": 250,
+              "topRow": 243,
+              "bottomRow": 249,
               "parentRowSpace": 10,
               "source": "https://www.example.com",
               "type": "IFRAME_WIDGET",
@@ -90,7 +90,7 @@
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 28,
+              "leftColumn": 30,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -102,7 +102,7 @@
               "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 41,
+              "rightColumn": 43,
               "widgetId": "0v0ff0v169",
               "isVisible": true,
               "version": 1,
@@ -130,7 +130,7 @@
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 28,
+              "leftColumn": 30,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -142,7 +142,7 @@
               "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 41,
+              "rightColumn": 43,
               "widgetId": "epj92aupdg",
               "isVisible": true,
               "version": 1,
@@ -787,8 +787,8 @@
               "searchTags": [
                 "embed"
               ],
-              "topRow": 192,
-              "bottomRow": 218,
+              "topRow": 191,
+              "bottomRow": 217,
               "parentRowSpace": 10,
               "source": "https://www.example.com",
               "type": "IFRAME_WIDGET",
@@ -830,8 +830,8 @@
                 "parent",
                 "group"
               ],
-              "topRow": 192,
-              "bottomRow": 218,
+              "topRow": 191,
+              "bottomRow": 217,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,
@@ -1146,8 +1146,8 @@
                 "parent",
                 "group"
               ],
-              "topRow": 218,
-              "bottomRow": 244,
+              "topRow": 217,
+              "bottomRow": 243,
               "parentRowSpace": 10,
               "type": "CONTAINER_WIDGET",
               "hideCard": false,

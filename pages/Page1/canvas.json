@@ -268,7 +268,7 @@
             {
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
               "widgetName": "Iframe1",
-              "srcDoc": "<div style=\"vertical-align: middle\"><a href=\"#解决方案\"style=\"text-decoration: none;\">&nbsp&nbsp&nbsp <strong style=\"font-size:25px; line-height:3\">解决方案</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\"href=\"https://app.appsmith.com/app/hzsj/page2-62e0ab761d816b5fddf3f938\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:25px; line-height:3\">产品</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#合作伙伴\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:25px; line-height:3\">合作伙伴</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#开发者\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:25px; line-height:3\">开发者</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#了解金硕\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:25px; line-height:3\">了解金硕</strong>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp\n<strong style=\"font-size:15px; line-height:3\">📮：联系我们</strong>\n</a></div>\n",
+              "srcDoc": "<div style=\"vertical-align: middle\"><a href=\"#解决方案\"style=\"text-decoration: none;\">&nbsp&nbsp&nbsp <strong style=\"font-size:25px; line-height:3\">解决方案</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\"href=\"https://app.appsmith.com/app/hzsj/page2-62e0ab761d816b5fddf3f938?branch=main\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:25px; line-height:3\">产品</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#合作伙伴\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:25px; line-height:3\">合作伙伴</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#开发者\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:25px; line-height:3\">开发者</strong>&nbsp&nbsp&nbsp\n</a><a style=\"text-decoration: none;\" href=\"#了解金硕\">&nbsp&nbsp&nbsp\n <strong style=\"font-size:25px; line-height:3\">了解金硕</strong>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp\n<strong style=\"font-size:15px; line-height:3\">📮：联系我们</strong>\n</a></div>\n",
               "displayName": "Iframe",
               "iconSVG": "/static/media/icon.34169b6acebc8ace125dd1f638974aae.svg",
               "searchTags": [
@@ -277,7 +277,7 @@
               "topRow": 0,
               "bottomRow": 9,
               "parentRowSpace": 10,
-              "source": "https://www.example.com",
+              "source": "https://app.appsmith.com/app/hzsj/page2-62e0ab761d816b5fddf3f938?branch=main",
               "type": "IFRAME_WIDGET",
               "hideCard": false,
               "borderOpacity": 100,

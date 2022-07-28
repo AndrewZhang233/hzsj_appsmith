@@ -191,7 +191,7 @@
             {
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
               "widgetName": "Iframe4Copy",
-              "srcDoc": "<div id=\"业务痛点\" style=\"font-size:30px;\">业务痛点</div>",
+              "srcDoc": "<div id=\"业务痛点\" style=\"font-size:30px;\">业务痛点<br/></div>\n",
               "displayName": "Iframe",
               "iconSVG": "/static/media/icon.34169b6acebc8ace125dd1f638974aae.svg",
               "searchTags": [
@@ -207,7 +207,7 @@
               "animateLoading": true,
               "parentColumnSpace": 17.9375,
               "dynamicTriggerPathList": [],
-              "leftColumn": 28,
+              "leftColumn": 30,
               "dynamicBindingPathList": [
                 {
                   "key": "borderRadius"
@@ -219,7 +219,7 @@
               "borderWidth": "0",
               "key": "jrkdjawyf1",
               "isDeprecated": false,
-              "rightColumn": 41,
+              "rightColumn": 43,
               "widgetId": "p7uvw9ji37",
               "isVisible": true,
               "version": 1,
@@ -388,7 +388,7 @@
             {
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
               "widgetName": "Iframe4",
-              "srcDoc": "<div id=\"用户场景\" style=\"font-size:30px;\">用户场景</div>",
+              "srcDoc": "<div id=\"用户场景\" style=\"font-size:30px;\">用户场景<br/></div>",
               "displayName": "Iframe",
               "iconSVG": "/static/media/icon.34169b6acebc8ace125dd1f638974aae.svg",
               "searchTags": [

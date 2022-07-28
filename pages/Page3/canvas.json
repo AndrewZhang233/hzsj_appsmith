@@ -196,23 +196,23 @@
                     {
                       "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
                       "widgetName": "Iframe1",
-                      "srcDoc": "<a href=\"http://www.baidu.com\">baiduyixia</a>",
+                      "srcDoc": "baidu",
                       "displayName": "Iframe",
                       "iconSVG": "/static/media/icon.34169b6acebc8ace125dd1f638974aae.svg",
                       "searchTags": [
                         "embed"
                       ],
-                      "topRow": 2,
-                      "bottomRow": 34,
+                      "topRow": 9,
+                      "bottomRow": 41,
                       "parentRowSpace": 10,
-                      "source": "https://www.example.com",
+                      "source": "https://www.baidu.com",
                       "type": "IFRAME_WIDGET",
                       "hideCard": false,
                       "borderOpacity": 100,
                       "animateLoading": true,
                       "parentColumnSpace": 13.4208984375,
                       "dynamicTriggerPathList": [],
-                      "leftColumn": 7,
+                      "leftColumn": 10,
                       "dynamicBindingPathList": [
                         {
                           "key": "borderRadius"
@@ -222,10 +222,10 @@
                         }
                       ],
                       "borderWidth": 1,
-                      "key": "vntl6ywn4e",
+                      "key": "ck5kwgviz5",
                       "isDeprecated": false,
-                      "rightColumn": 31,
-                      "widgetId": "vdber8qwkj",
+                      "rightColumn": 34,
+                      "widgetId": "xyaz6lkxhv",
                       "isVisible": true,
                       "version": 1,
                       "parentId": "p8xtfzziyy",

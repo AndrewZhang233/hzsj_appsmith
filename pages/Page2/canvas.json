@@ -161,7 +161,7 @@
               "type": "IFRAME_WIDGET",
               "hideCard": false,
               "borderOpacity": 100,
-              "animateLoading": true,
+              "animateLoading": false,
               "parentColumnSpace": 17.9375,
               "dynamicTriggerPathList": [],
               "leftColumn": 0,
